@@ -1,0 +1,515 @@
+1
+Sabun Mandi Lifebuoy
+39
+4000
+---
+2
+Sampo Clear Menthol
+2
+12000
+---
+3
+Pasta Gigi Pepsodent
+36
+8500
+---
+4
+Minyak Goreng Bimoli 1L
+93
+16000
+---
+5
+Gula Pasir Rose Brand 1kg
+79
+14000
+---
+6
+Beras Ramos 5kg
+35
+60000
+---
+7
+Teh Celup Sariwangi
+59
+7000
+---
+8
+Kopi Kapal Api 65g
+57
+2500
+---
+9
+Indomie Goreng
+188
+3000
+---
+10
+Susu Dancow Sachet
+150
+3500
+---
+11
+Mie Sedaap Ayam Bawang
+179
+2900
+---
+12
+Rokok Gudang Garam Filter
+50
+25000
+---
+13
+Air Mineral Aqua 600ml
+250
+3500
+---
+14
+Kecap Manis ABC 135ml
+90
+6500
+---
+15
+Sarden ABC 425g
+40
+17000
+---
+16
+Telur Ayam 1 Butir
+300
+2000
+---
+17
+Tepung Terigu Segitiga Biru 1kg
+60
+12000
+---
+18
+Susu UHT Ultra Milk 250ml
+130
+5000
+---
+19
+Masker Medis 1 Lembar
+500
+1000
+---
+20
+Hand Sanitizer 100ml
+100
+12000
+---
+21
+Detergen Rinso 800g
+60
+18000
+---
+22
+Sabun Cuci Piring Sunlight
+75
+9000
+---
+23
+Minyak Telon Cap Lang 60ml
+26
+17000
+---
+24
+Shampoo Pantene 70ml
+50
+9500
+---
+25
+Tissue Paseo 1 Pack
+85
+10000
+---
+26
+Roti Tawar Sari Roti
+70
+12500
+---
+27
+Coklat Silverqueen Kecil
+90
+11500
+---
+28
+Permen Mentos
+200
+1000
+---
+29
+Sirup Marjan Cocopandan
+45
+23000
+---
+30
+Margarin Blue Band 250g
+55
+14000
+---
+31
+Sikat Gigi Formula
+100
+6000
+---
+32
+Sabun Cuci Muka Ponds
+35
+17000
+---
+33
+Pop Mie Ayam
+120
+4000
+---
+34
+Susu Kental Manis Frisian Flag
+80
+10000
+---
+35
+Kopi Good Day 3in1
+140
+1500
+---
+36
+Kacang Garuda 50g
+129
+2500
+---
+37
+Wafer Tango Vanilla
+90
+6000
+---
+38
+Saus Sambal ABC 135ml
+67
+8000
+---
+39
+Baterai ABC AA 2pcs
+65
+7000
+---
+40
+Pel Lantai Super Mop
+30
+50000
+---
+41
+Baygon Spray 600ml
+25
+30000
+---
+42
+Obat Nyamuk HIT
+70
+5000
+---
+43
+Minyak Kayu Putih 60ml
+40
+14000
+---
+44
+Sabun Cuci Dettol
+50
+9000
+---
+45
+Vitamin C You C1000
+54
+7500
+---
+46
+Obat Flu Mixagrip
+89
+2000
+---
+47
+Susu Bear Brand
+100
+9000
+---
+48
+Selai Kacang Skippy
+30
+25000
+---
+49
+Sereal Koko Krunch
+55
+23000
+---
+50
+Madu TJ 150g
+40
+18000
+---
+51
+Air Galon Aqua
+70
+18000
+---
+52
+Minuman Isotonik Pocari Sweat
+100
+7000
+---
+53
+Buku Tulis Sidu
+119
+3000
+---
+54
+Bolpen Standard AE7
+249
+2000
+---
+55
+Lilin Batang 6pcs
+60
+8000
+---
+56
+Roti Sobek Sari Roti
+77
+9000
+---
+57
+Kacang Kulit Rebo
+98
+4500
+---
+58
+Susu Zee Sachet
+90
+3000
+---
+59
+Masker KF94
+70
+2000
+---
+60
+Coklat Beng-Beng
+140
+2500
+---
+61
+Permen Relaxa
+180
+1000
+---
+62
+Obat Pilek Paramex
+90
+1500
+---
+63
+Mi Gelas Ayam Bawang
+160
+2500
+---
+64
+Tepung Beras Rose Brand 500g
+63
+8500
+---
+65
+Kopi Luwak White Koffie
+128
+2000
+---
+66
+Saus Tomat Indofood
+85
+7000
+---
+67
+Keripik Singkong Balado
+74
+4000
+---
+68
+Pop Ice Susu
+179
+1000
+---
+69
+Minyak Zaitun Mustika Ratu
+40
+28000
+---
+70
+Telur Bebek 1 Butir
+120
+2500
+---
+71
+Wipol Karbol 780ml
+60
+14000
+---
+72
+Bayam Segar 250g
+50
+5000
+---
+73
+Wortel 1kg
+60
+7000
+---
+74
+Sabun Cair Cussons Baby
+48
+10000
+---
+75
+Sabun Muka Garnier Men
+39
+18000
+---
+76
+Air Mineral Le Minerale 600ml
+116
+3500
+---
+77
+Teh Botol Sosro 350ml
+140
+4000
+---
+78
+Minuman Ale-Ale
+149
+1500
+---
+79
+Pelembut Pakaian Molto
+90
+10000
+---
+80
+Snack Chitato BBQ 68g
+110
+8000
+---
+81
+Ice Cream Campina 90ml
+70
+7000
+---
+82
+Sosis Kanzler Mini
+60
+12000
+---
+83
+Nugget So Nice 500g
+40
+23000
+---
+84
+Daging Ayam Fillet 500g
+30
+35000
+---
+85
+Sabun Biore Body Foam 450ml
+40
+20000
+---
+86
+Masker Kain 3 Lapis
+100
+3000
+---
+87
+Obat Diare Diapet
+80
+2500
+---
+88
+Sirup ABC Squash Delight
+72
+21000
+---
+89
+Minyak Wijen Lee Kum Kee
+28
+35000
+---
+90
+Kecap Inggris
+45
+18000
+---
+91
+Pasta Gigi Formula Herbal
+90
+7000
+---
+92
+Sampo Dove 160ml
+50
+18000
+---
+93
+Handuk Mandi Kecil
+60
+15000
+---
+94
+Sabun Cuci Batangan
+110
+2000
+---
+95
+Pewangi Ruangan Stella
+72
+9000
+---
+96
+Pasta Sambal ROA
+19
+25000
+---
+97
+Minyak Ikan Omeheart
+31
+19000
+---
+98
+Buku Gambar A4
+43
+5000
+---
+99
+Temulawak Instan Sachet
+90
+1500
+---
+100
+Kecap Manis Indofood 275ml
+40
+12000
+---
+101
+ak 47
+346
+2e+007
+---
+107
+Glowing Wand
+21
+2750
+---
+105
+c4
+12
+5000
+---

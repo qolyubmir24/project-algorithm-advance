@@ -1,0 +1,11 @@
+Nama   : Jokowi
+Alamat : Solo, Jl. Fufufafa
+ID     : 0
+
+-------------------------------------------------
+Pop Ice Susu                        x1   = 1000      
+Buku Tulis Sidu                     x1   = 3000      
+Sabun Cair Cussons Baby             x2   = 20000     
+Vitamin C You C1000                 x3   = 22500     
+-------------------------------------------------
+Total: 46500
